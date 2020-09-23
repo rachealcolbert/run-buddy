@@ -95,7 +95,7 @@ section {
 }
 
 .hero-form p {
-    margin: 5px 0 15px 0;
+    margin: 5px 0 10px 0;
 }
 
 .form-input {
@@ -118,7 +118,7 @@ section {
 }
 
 .hero-form button {
-    margin: 5px 0 5px 0;
+    margin: 5px 0 0px 0;
     background-color: #024e76;
     color: #fce138;
     border: none;
