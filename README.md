@@ -12,3 +12,5 @@ https://lernantino.github.io/run-budy
 
 ## Contribution 
 Made with ❤️ by Racheal Colbert 
+
+### ©️2019 Run Buddy, Inc
